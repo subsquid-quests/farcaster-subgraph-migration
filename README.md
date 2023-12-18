@@ -10,15 +10,15 @@
 
 [Website](https://subsquid.io) | [Docs](https://docs.subsquid.io/) | [Discord](https://discord.gg/subsquid)
 
-# XXXXX Subgraph migration
+# Farcaster Subgraph migration
 
-This quest is to migrate the [XXXXX subgraph](https://thegraph.com/explorer) to Squid SDK. The resulting squid should match the GraphQL API of the subgraph as close as possible, by migrating `schema.graphql`. The judges reserve the right to request improvements afther the initial review of the submission. Reach out to the [Discord Channel]( https://discord.com/channels/857105545135390731/1155812879770058783) for any tech questions regarding this quest. Use ```template``` squid as a starter.
+This quest is to migrate the [Farcaster subgraph](https://github.com/Airstack-xyz/farcaster-subgraph) to Squid SDK. The resulting squid should match the GraphQL API of the subgraph as close as possible, by migrating `schema.graphql`. The judges reserve the right to request improvements afther the initial review of the submission. Reach out to the [Discord Channel]( https://discord.com/channels/857105545135390731/1155812879770058783) for any tech questions regarding this quest. Use ```template``` squid as a starter.
 
 # Quest Info
 
 | Category         | Skill Level                           | Time required (hours) | Max Participants | Reward                                | Status |
 | ---------------- | ------------------------------------- | --------------------- | ---------------- | ------------------------------------- | ------ |
-| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~60                   | 5                | $\textcolor{red}{\textsf{3000tSQD}}$  | open   |
+| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~20                   | 5                | $\textcolor{red}{\textsf{3000tSQD}}$  | open   |
 
 # Acceptance critera
 
