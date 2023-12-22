@@ -18,7 +18,7 @@ This quest is to migrate the [Farcaster subgraph](https://github.com/Airstack-xy
 
 | Category         | Skill Level                           | Time required (hours) | Reward                                | Status |
 | ---------------- | ------------------------------------- | --------------------- | ------------------------------------- | ------ |
-| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~10                   | $\textcolor{red}{\textsf{1250tSQD}}$  | open   |
+| Squid Deployment | $\textcolor{green}{\textsf{Intermediate}}$ | ~10                   | $\textcolor{red}{\textsf{1250tSQD}}$  | open   |
 
 # Acceptance critera
 
